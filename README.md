@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of testerD is to provides functionality for my package. These
-function are for use only with Delia Ortega and no other people.
+function are for use only with Delia Ortega and no other peoplesssssss.
 
 ## Installation
 
